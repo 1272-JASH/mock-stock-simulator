@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mock-stock-simulator
+    name: mock-stock-beyond-realities
     runtime: node
     plan: free
     buildCommand: npm install
